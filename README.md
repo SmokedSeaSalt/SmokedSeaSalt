@@ -1,2 +1,3 @@
-"# SmokedSeaSalt" 
-SmokedSeaSalt.github.io 
+"# SmokedSeaSalt"
+
+https://SmokedSeaSalt.github.io
